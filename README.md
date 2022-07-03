@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hkzak
-- 👀 I’m interested in Machine learning and AI, specifically NLP and chatbots.
-- 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on Any machine learning projects
+- 👋 Hi, I’m @hkzak, I full stack developer currently based in the Philippines.
+- 👀 Interested in Machine learning and AI, specifically NLP and chatbots.
+- 🌱 Currently learning Reinforcement Learning.
+- 💞️ Looking to collaborate on Any machine learning projects.
 - 📫 How to reach me zakaryaalsalahi@gmail.com
 
 <!---
