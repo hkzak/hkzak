@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hkzak, I full stack developer currently based in the Philippines.
+- 👋 Hi, I’m @hkzak, a full stack developer currently based in the Philippines.
 - 👀 Interested in Machine learning and AI, specifically NLP and chatbots.
 - 🌱 Currently learning Reinforcement Learning.
 - 💞️ Looking to collaborate on Any machine learning projects.
